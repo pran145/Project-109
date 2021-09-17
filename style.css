@@ -1,0 +1,35 @@
+body {
+    font-family: 'Allison', cursive;
+    background-color: violet;
+}
+.header_div {
+   background-color: beige; 
+   color: red;
+
+}
+.header_div p {
+    font-family: 'Lobster', cursive;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div_button {
+font-family: 'Mrs Sheppards', cursive; 
+font-weight: bolder ;
+margin-top: 30px;
+width: 130px;
+letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: maroon;
+    bottom: 0;
+    width: 100% ;
+    font-size: 38px;
+    background-color: white;
+    line-height:3;
+    text-align: center; 
+    text-shadow: 5px 5px 5px gray ;
+}
